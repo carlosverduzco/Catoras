@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Catoras
-- 👀 I’m interested in Laravel
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on Laravel
-- 📫 How to reach me Laravel
+- 👀 I’m interested in Learn JavaScript(Vanilla) and after that learn about React Environment.
 
 <!---
 Catoras/Catoras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
