@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Catoras
+- 👋 Hi, I’m Carlos Verduzco
 - 👀 I’m interested in Learn JavaScript(Vanilla) and after that learn about React Environment.
 
 <!---
